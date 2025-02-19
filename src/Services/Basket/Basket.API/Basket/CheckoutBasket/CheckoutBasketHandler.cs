@@ -1,6 +1,6 @@
-﻿namespace Basket.API.Basket.CheckoutBasket
+﻿namespace Basket.API.Basket.CheckoutBasket;
+public class CheckoutBasketHandler
 {
-    public class CheckoutBasketHandler
-    {
-    }
 }
+
+
